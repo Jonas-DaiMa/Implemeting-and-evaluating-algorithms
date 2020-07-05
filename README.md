@@ -29,3 +29,5 @@ Runs the RankSelectNaive in a given testcase and prints the Algorithms answer al
 Runs the RankSelectLookUp in a given testcase and prints the Algorithms answer along with the actual answer
 * RankSelectSpaceEfficient  
 Runs the RankSelectSpaceEfficient in a given testcase and prints the Algorithms answer along with the actual answer
+
+For more info on [Applied Algorithms](https://learnit.itu.dk/local/coursebase/view.php?ciid=485) course.
