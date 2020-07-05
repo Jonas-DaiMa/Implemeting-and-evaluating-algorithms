@@ -1,0 +1,11 @@
+Algo,size,seed
+part2.RankSelectNaive,1000000,0
+part2.RankSelectNaive,2000000,0
+part2.RankSelectNaive,4000000,0
+part2.RankSelectNaive,8000000,0
+part2.RankSelectNaive,16000000,0
+part2.RankSelectNaive,32000000,0
+part2.RankSelectNaive,64000000,0
+part2.RankSelectNaive,128000000,0
+part2.RankSelectNaive,256000000,0
+part2.RankSelectNaive,512000000,0

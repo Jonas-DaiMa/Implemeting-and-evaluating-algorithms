@@ -1,0 +1,11 @@
+Algo,size,seed
+part2.RankSelectLookUp,1000000,0
+part2.RankSelectLookUp,2000000,0
+part2.RankSelectLookUp,4000000,0
+part2.RankSelectLookUp,8000000,0
+part2.RankSelectLookUp,16000000,0
+part2.RankSelectLookUp,32000000,0
+part2.RankSelectLookUp,64000000,0
+part2.RankSelectLookUp,128000000,0
+part2.RankSelectLookUp,256000000,0
+part2.RankSelectLookUp,512000000,0
